@@ -8,15 +8,7 @@ class Solution {
         for(int i =s.length()-1,j=0; i>=0 && j<=s.length(); i--,j++){
             newarr[j] = strarr[i];
         }
-        answer = String.valueOf(newarr);
-//         char max =strarr[0];
-        
-//         for(int i =0; i<=s.length(); i++){
-//             if(strarr[i]>=max){
-//                 max = strarr[i];
-//             }
-//         }
-        
+        answer = String.valueOf(newarr);        
         return answer;
     }
 }
