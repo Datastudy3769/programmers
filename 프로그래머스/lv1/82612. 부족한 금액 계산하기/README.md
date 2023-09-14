@@ -2,7 +2,7 @@
 
 [문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/82612#) 
 
-### long과 int의 연산으로 인해 테스트 18~21번 통과하지 못함 pay앞의 자료형을 long으로 바꿔줘야했다.
+### ****long과 int의 연산으로 인해 테스트 18~21번 통과하지 못함 pay앞의 자료형을 long으로 바꿔줘야했다.****
 
 ### 성능 요약
 
